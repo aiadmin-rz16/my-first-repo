@@ -1,8 +1,3 @@
-My First GitHub Repository
-This repository is created to learn GitHub fundamentals.
+Test Branch
 
-Topics
-Git
-GitHub
-Version Control
-PowerShell
+This content exists only in test-branch.
